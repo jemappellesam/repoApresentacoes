@@ -1,4 +1,5 @@
 *Olá*
 
-Nome:Samuel Paiva
+Nome: Samuel Paiva
 Idade: 24 anos
+Profissão: Analista programador
